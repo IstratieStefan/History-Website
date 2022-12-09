@@ -1,2 +1,3 @@
-# website-tic
-Site pentru ora de tic
+# Istorie completa a informaticii - Site
+
+### Un site pentru ora de tic despre istoria informaticii 😋
