@@ -13,10 +13,18 @@ html{
 h1 {
     font-weight: 700;
     font-size: 600;
-    text-align: center;
+}
+h5{
+    color:#d2d2d2;
+    font-weight: 500;
+}
+p{
+    color:#d2d2d2;
+    font-weight: 500;
 }
 nav {
-    background-color: #50577A;
+    background-color: #404258;
+    z-index: 100;
 }
 .card{
     padding:5%;
@@ -27,3 +35,10 @@ nav {
 footer{
     background-color: #404258;
 }
+a{
+    color:#6B728E
+}
+a:hover{
+    color:#0044ff;
+}
+
